@@ -1,3 +1,5 @@
-# NeRF_py
+# Ref-NeRF_py
 
-Just for learning.
+A personal reproduction of RefNeRF.
+
+Follow the steps in README_origin.md to start.

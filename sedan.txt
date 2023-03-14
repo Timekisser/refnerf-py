@@ -1,0 +1,18 @@
+expname = sedan_test
+basedir = ./logs
+datadir = ../sedan
+dataset_type = llff
+
+factor = 8
+llffhold = 8
+
+N_rand = 1024
+N_samples = 64
+N_importance = 64
+
+use_viewdirs = True
+raw_noise_std = 1e0
+
+netchunk = 16384
+chunk = 8192
+
